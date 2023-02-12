@@ -12,7 +12,17 @@ Data used in this project comes from insideairbnb.com.
 
 # Technologies used
 
-Project was prepared in Python using below libraries:
+Project was prepared in Jupyter Notebook (Python) using below libraries:
 
+* sklearn
+* xgboost
 * pandas
-* 
+* numpy
+* matplotlib
+* re
+* vincenty
+* textblob
+* langdetect
+* scipy
+* seaborn
+* time
